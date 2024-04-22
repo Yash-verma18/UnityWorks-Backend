@@ -1,0 +1,41 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+build/
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore log files
+*.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore package-lock.json (npm)
+package-lock.json
+
+# Ignore yarn.lock (Yarn)
+yarn.lock
+
+# Ignore .DS_Store files (macOS)
+.DS_Store
+
+# Ignore .bak files
+*.bak
+
+# Ignore .tmp files
+*.tmp
+
+# Ignore .swp files (Vim)
+*.swp
+
+# Ignore .swo files (Vim)
+*.swo
+
+# Ignore .swn files (Vim)
+*.swn
